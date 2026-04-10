@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpaganini_docs=self.webpackChunkpaganini_docs||[]).push([[1947],{1947:(e,a,s)=>{s.d(a,{createWardleyServices:()=>c.J});var c=s(2295);s(2519)}}]);
